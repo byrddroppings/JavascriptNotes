@@ -9,7 +9,7 @@ We will cover Javascript grammar, objects, functions, inheritance, arrays, scope
 
 As Javascript guru Douglas Crockford says: “It is a language with enormous expressive power. It is even better when you know what you're doing.”
 
-- [Session #1](session1.md)
-- [Session #2](session2.md)
-- [Session #3](session3.md)
-- [Session #4](session4.md)
+- [Session #1](Session1.md)
+- [Session #2](Session2.md)
+- [Session #3](Session3.md)
+- [Session #4](Session4.md)
